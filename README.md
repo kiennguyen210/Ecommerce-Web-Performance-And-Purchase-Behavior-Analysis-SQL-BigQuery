@@ -1,29 +1,15 @@
 # Ecommerce Web Performance & Purchase Behavior Analysis | SQL, BigQuery
-
-🔥Use this template as an outline for your SQL/ Python Github projects - which is task by task type of projects. 
-Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
-
-Updated: Nov'25
-
----
-![Ecommerce Web Performance](https://www.google.com.vn/search?q=ecommerce+web&udm=2#imgrc=lsYPJWSTNCTIVM&imgdii=-l36Syg1DOIlwM)
+![Image](https://github.com/user-attachments/assets/87a187d0-9f07-4941-ab65-62e06929886b)
 
 👉🏻Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Your Project Name [ Business question + Domain + Tools ]  
+ _Analyze the performance of an e-commerce website, focusing on traffic, engagement, and revenue over time | SQL_
 
- _Example:_
- _Analyze Customer segmentation of Sprocket Central - a medium size bikes accessories organization | Python_
- 
-_+ Business question: The core problem that this project solves ->  Customer segmentation_
+**Author:** Kien Nguyen Duy  
 
-_+ Domain: Domain/ Industry that this projects focus on --> a medium size bikes accessories organization tức công ty sản xuất và thương mại_
+**DOB:** 2000-11-22  
 
-**_📌You need to show that your projects are applicable to real business use cases, for a particular industry, not just "learning projects"_**
-  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Python  
+**Tools Used:** SQL
 
 ---
 
@@ -39,30 +25,33 @@ Tools Used: SQL/ Python
 ### Objective:
 ### 📖 What is this project about? What Business Question will it solve?
 
-Clearly outline what this project does, what business questions the project will solve. 
+🎯 Main Business Question
 
-- Provide a brief introduction - Write in bullet point format
-- Point out the main business question
+How can the business optimize website performance and user conversion by analyzing visitor behavior, traffic sources, and product-level purchase patterns?
 
+📘 Project Overview
 
- _Example:_
-  This project uses Python to analyze transaction data from KPMG to:
+- This project analyzes website traffic and e-commerce performance data over several months in 2017.
+- It focuses on understanding user behavior, traffic source effectiveness, and conversion performance at multiple levels (session, user, and product).
+- The project uses SQL queries to extract insights from web analytics data such as visits, pageviews, bounce rates, transactions, and revenue.
 
-✔️ Identify the behavior in customer's first transaction.  
-✔️ Provide actionable insights to increase retention rate   
- 
+💡 Business Questions this project answers
 
+- ✔️ How does website performance change across months (visits, pageviews, and transactions)?
+- ✔️ Which traffic sources bring the most valuable visitors and have the lowest bounce rates?
+- ✔️ How does revenue vary by traffic source and over time (weekly and monthly trends)?
+- ✔️ How do purchasers behave differently from non-purchasers in terms of engagement (pageviews, transactions, and spending)?
+- ✔️ What is the average value per session and per customer, helping to measure marketing ROI?
+- ✔️ Which products are commonly purchased together, revealing potential cross-sell opportunities?
+- ✔️ What is the conversion funnel from product view → add-to-cart → purchase, and how efficient is it for each product?
 
 ### 👤 Who is this project for?  
 
-Mention who might benefit from this project 
-
- _Example:_
-
-✔️ Data analysts & business analysts  
-✔️ Decision-makers & stakeholders  
-
-
+- ✔️ Digital Marketing Teams – to evaluate traffic sources, campaign performance, and bounce rate.
+- ✔️ E-commerce Managers – to monitor key metrics like transactions, revenue, and conversion rates.
+- ✔️ Product Managers – to identify top-performing and underperforming products and potential bundling opportunities.
+- ✔️ Data Analysts – to build dashboards or performance reports using SQL and analytics data.
+- ✔️ Business Decision Makers / Executives – to make data-driven decisions about marketing spend, website optimization, and sales strategy.
 
 ---
 
@@ -70,44 +59,19 @@ Mention who might benefit from this project
 
 ### 📌 Data Source  
 - Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
 
-### 📊 Data Structure & Relationships  
+### 📊 How to access the data
 
-#### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  Only mention tables that you actually used from the entire dataset. 
-
-#### 2️⃣ Table Schema & Data Snapshot  
-
-Table 1: Products Table  
-
-👉🏻 Insert a screenshot of table schema 
-
-**_📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle_**
-
- _Example:_
-
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
-
-
-Table 2: Sales Transactions  
-
-👉🏻 Insert a screenshot of table schema.
-
+1. Log in to your **Google Cloud Platform** account and create a new project.
+2. Open the **BigQuery Console** and select your project.
+3. Click on **"Add Data"** in the navigation panel, then choose **"Search a project"**.
+4. In the search bar, enter the project ID: **bigquery-public-data.google_analytics_sample.ga_sessions and press Enter**.
+5. Click on the **ga_sessions_** table to explore its structure and data.
 
 ---
 
 ## ⚒️ Main Process
 
-1️⃣ Data Cleaning & Preprocessing  
-2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ SQL/ Python Analysis 
 
 👉🏻 First, explain codes' purpose - what they do in 1, 2 short sentences.
 
