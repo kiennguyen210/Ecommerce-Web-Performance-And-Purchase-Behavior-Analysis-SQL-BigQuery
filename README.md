@@ -94,7 +94,7 @@ ORDER BY month;
 | 201702   |	   62192 |	      62185 |         	708 |
 | 201703   |   	69931 |       69927	|          883 |
 
-#### Insight: 
+Insight: 
 There is a positive trend from February to March in all three metrics. February appears to be the weakest month in terms of site visits, which could be worth investigating for potential causes.
 ---
 
@@ -105,7 +105,7 @@ There is a positive trend from February to March in all three metrics. February 
 📍 Key Takeaways:  
 ✔️ Recommendation 1  
 ✔️ Recommendation 2  
-✔️ Recommendation 3
+✔️ Recommendation 3 There is a positive trend from February to March in all three metrics. February appears to be the weakest month in terms of site visits, which could be worth investigating for potential causes.
 
 **_📌Remember to summarize the most core insights/ observations you extract from the entire projects. 
  Recap ONLY key actions/ recommendations. DO NOT copy paste everything above_**
