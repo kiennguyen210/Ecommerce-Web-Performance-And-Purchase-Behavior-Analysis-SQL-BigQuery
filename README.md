@@ -391,24 +391,24 @@ In general, the number of product views increases gradually during this period. 
 
 ### 📌 Insights:
 
-👉🏻 Traffic and conversion metrics improved steadily from January to March, showing stronger user engagement and better purchase behaviour over time.
+- Traffic and conversion metrics improved steadily from January to March, showing stronger user engagement and better purchase behaviour over time.
 
-👉🏻 Google drives the highest traffic but also has the highest bounce rate, indicating misalignment between user search intent and landing page relevance.
+- Google drives the highest traffic but also has the highest bounce rate, indicating misalignment between user search intent and landing page relevance.
 
-👉🏻 Non-purchasers view significantly more pages than purchasers, suggesting high interest but friction in the checkout or decision-making process.
+- Non-purchasers view significantly more pages than purchasers, suggesting high interest but friction in the checkout or decision-making process.
 
-👉🏻 July shows unusually high transaction frequency and revenue per visit, implying strong seasonal or campaign-driven performance.
+- July shows unusually high transaction frequency and revenue per visit, implying strong seasonal or campaign-driven performance.
 
-👉🏻 Revenue contribution varies across channels, highlighting differences in traffic quality and marketing effectiveness.
+- Revenue contribution varies across channels, highlighting differences in traffic quality and marketing effectiveness.
 
 ### 📍 Recommendations:
 
-✔️ Optimize SEO landing pages and conduct A/B tests to reduce bounce rate from Google traffic.
+1. Optimize SEO landing pages and conduct A/B tests to reduce bounce rate from Google traffic.
 
-✔️ Improve product pages and streamline the checkout flow to convert high-engagement users who currently do not purchase.
+2. Improve product pages and streamline the checkout flow to convert high-engagement users who currently do not purchase.
 
-✔️ Reallocate marketing budget toward channels with better conversion quality and lower bounce rates.
+3. Reallocate marketing budget toward channels with better conversion quality and lower bounce rates.
 
-✔️ Analyze July’s successful campaigns or seasonal factors and replicate similar strategies in weaker months.
+4. Analyze July’s successful campaigns or seasonal factors and replicate similar strategies in weaker months.
 
-✔️ Implement remarketing for high-intent users and enhance product recommendations to increase conversion and revenue.
+5. Implement remarketing for high-intent users and enhance product recommendations to increase conversion and revenue.
